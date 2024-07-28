@@ -1,0 +1,163 @@
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+:root {
+  scroll-behavior: auto;
+}
+h1 {
+  font-size: 60px;
+  font-weight: 500;
+}
+
+::selection {
+  color: #e68285;
+  background-color: #111111cf;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+aside {
+  position: fixed;
+  z-index: 9999;
+  display: flex;
+}
+.outer-side {
+  display: none;
+}
+aside .side-menu {
+  background-color: #111111;
+  min-height: 100vh;
+  padding: 4.375rem;
+}
+.side-left {
+  min-height: 100vh;
+  background-color: #e68285;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+}
+.side-left .cursor {
+  padding: 0.4375rem;
+  border-radius: 15%;
+  font-size: 1.0625rem;
+  cursor: pointer;
+  background-color: rgba(214, 46, 51, 0.6);
+}
+.links li {
+  font-size: 1.5625rem;
+  color: white;
+}
+.links li:hover,
+:hover.nav-icon {
+  /* color: #511411; */
+  color: #e68285;
+}
+
+
+.home {
+  background-image: linear-gradient(rgba(214, 46, 51, 0.6) 0% 100%),
+    url(../images/Mealify-img1.jpg);
+  background-position: center center;
+  background-size: cover;
+  min-height: 94.1vh;
+  color: #fff;
+}
+.home .home-box {
+  min-height: 94.1vh;
+  display: grid;
+  place-content: center;
+}
+.my-nav .navbar-nav .active{
+  color:  #e68285!important;
+}
+.home .card {
+  color: var(--color-text) !important;
+  background-color: transparent;
+}
+.home .card-p {
+  padding: 10px;
+  color: var(--color-text);
+}
+
+.home .caption p {
+  color: var(--color-text) !important;
+  line-height: 1.7;
+}
+
+.header {
+  color: #fff;
+  background-color: #e68285;
+  font-size: 1.75rem;
+  padding: 0.4375rem;
+  margin: 0;
+  cursor: pointer;
+}
+.content {
+  padding-inline: 15px;
+  padding-block: 5px;
+  background-color: #cccccc;
+}
+
+.counter {
+  background-image: linear-gradient(rgba(214, 46, 51, 0.6) 0% 100%),
+    url(../images/Mealify-img\ 2\ .jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.counter .card-caption {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.join .contect-h3 {
+  font-weight: 700;
+  font-size: 2.25rem;
+}
+.join .contect-h5 {
+  font-size: 1.125rem;
+  font-weight: 900;
+  margin: 0.625rem;
+  padding-bottom: 0.3125rem;
+}
+.join .social-icons {
+  display: flex;
+  align-items: center;
+}
+
+.join .social-icons span {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 0.5625rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0.0625rem solid #999;
+  padding: 0.625rem;
+}
+
+.join .social-icons span i {
+  font-size: 1.25rem;
+  color: #999;
+}
+.join .social-icons span:hover,
+.join .social-icons span:hover i {
+  background-color: red;
+  color: #fff;
+  cursor: pointer;
+}
+input:focus ,textarea:focus{
+  box-shadow: 0 0 5px 2px #e68285 !important;
+}
+textarea {
+  height: 11.25rem;
+}
