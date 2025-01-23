@@ -31,8 +31,6 @@ $(".header").on("click", function () {
 
 $(".content").slideUp(500);
 
-
-
 $(".my-nav .nav-item").on("click", function (e) {
   $(this).addClass("active");
   $(".my-nav .nav-item .active").removeClass("active");
@@ -41,7 +39,7 @@ $(".my-nav .nav-item").on("click", function (e) {
 
 // ==================================
 
-let counterDat = new Date("Dec 31,2024 23:59:59").getTime();
+let counterDat = new Date("Dec 31,2025 23:59:59").getTime();
 
 let counetr = setInterval(() => {
   let datNow = new Date().getTime();
