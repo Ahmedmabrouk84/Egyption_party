@@ -24,9 +24,7 @@ Get ready for excitement and anticipate the upcoming event with enthusiasm! 🚀
   <li>User Reviews and Comments: A section where participants can leave comments or ratings for past events or share their opinions about the upcoming event.</li>
   <li>Login with your credentials.</li>
   <li>Validation of credentials at signing up.</li>
-  <li>Duplicate user handling.</li>
-  <li>Categorized games.</li>
-  <li>Light & Dark Mode</li>
-  <li>Loading Screen</li>
-  <li>Video autoplay on hover.</li>
+  
+  <li>Attractive User Interface: A simple and easy-to-navigate design that allows users to quickly access event details, with images or videos to capture attention.</li>
+  <
 </ul>
