@@ -8,7 +8,7 @@ The platform provides precise event details, including location and start time, 
 Get ready for excitement and anticipate the upcoming event with enthusiasm! 🚀🎶
 </p>
 <h2>Demo</h2>
-<a href="https://ahmedmabrouk84.github.io/Game_Over/">Link of Game Over </a>
+<a href="https://ahmedmabrouk84.github.io/Egyption_party/">Live Demo of Egyption Party </a>
 <h2>Technologies Skills Used</h2>
 <ul>
   <li>HTML5</li>
