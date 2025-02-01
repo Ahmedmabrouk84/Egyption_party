@@ -21,7 +21,7 @@ Get ready for excitement and anticipate the upcoming event with enthusiasm! 🚀
 </ul>
 <h2>Features</h2>
 <ul>
-  <li>Create new user (sign up).</li>
+  <li>User Reviews and Comments: A section where participants can leave comments or ratings for past events or share their opinions about the upcoming event.</li>
   <li>Login with your credentials.</li>
   <li>Validation of credentials at signing up.</li>
   <li>Duplicate user handling.</li>
