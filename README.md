@@ -14,9 +14,10 @@ Get ready for excitement and anticipate the upcoming event with enthusiasm! 🚀
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Bootstrap 5</li>
+  <li>JavaScript</li>
+  <li>jquery</li>
   <li>fontawesome</li>
   <li>Responsive Web Design</li>
-  <li>JavaScript</li>
 </ul>
 <h2>Features</h2>
 <ul>
