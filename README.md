@@ -9,7 +9,7 @@ Get ready for excitement and anticipate the upcoming event with enthusiasm! 🚀
 </p>
 <h2>Demo</h2>
 <a href="https://ahmedmabrouk84.github.io/Egyption_party/">Live Demo of Egyption Party </a>
-<h2>Technologies Skills Used</h2>
+<h2>Technologies Skills</h2>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
@@ -17,14 +17,14 @@ Get ready for excitement and anticipate the upcoming event with enthusiasm! 🚀
   <li>JavaScript</li>
   <li>jquery</li>
   <li>fontawesome</li>
-  <li>Responsive Web Design</li>
+  
 </ul>
 <h2>Features</h2>
 <ul>
   <li>User Reviews and Comments: A section where participants can leave comments or ratings for past events or share their opinions about the upcoming event.</li>
   <li>Login with your credentials.</li>
   <li>Validation of credentials at signing up.</li>
-  
+  <li>Responsive Web Design</li>
   <li>Attractive User Interface: A simple and easy-to-navigate design that allows users to quickly access event details, with images or videos to capture attention.</li>
   
 </ul>
